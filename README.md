@@ -11,6 +11,7 @@
 9.  git checkout nombre-de-la-rama  ```para trasladarme a otra rama```
 10. git branch -d nombre-de-la-rama ```para eliminar una rama```
 11. git push ```desplegar en github```
+12. git commit -am "nombre del commit"```remplaza el git add . y el git commit -m "nombre" ```
 
 
 13. git branch ```listado de las ramas```
