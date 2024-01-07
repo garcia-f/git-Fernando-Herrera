@@ -6,3 +6,4 @@
 4- git commit -m "nombre del commit"
 5- git checkout -- .  ```regresa al ultimo comite```
 6- git log      ```listado de los commit```
+7- git commit --amend     ```arreglar el comentario del ultimo commit```
