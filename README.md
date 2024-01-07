@@ -7,4 +7,5 @@
 5- git checkout -- .  ```regresa al ultimo comite```
 6- git log      ```listado de los commit```
 7- git commit --amend     ```arreglar el comentario del ultimo commit```
-8- git checkout -b nombre-de-la-rama 
+8- git checkout -b nombre-de-la-rama
+9- git checkout nombre-de-la-rama  ```para trasladarme a otra rama```
